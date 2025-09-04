@@ -1,4 +1,4 @@
-# ML_customer-s_purchasing_activity_for_-an_online_store
+# ML_customer_purchasing_activity_for_an_online_store
 
 ## Описание проекта:
 

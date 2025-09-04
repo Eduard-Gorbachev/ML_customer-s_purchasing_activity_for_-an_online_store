@@ -1,4 +1,4 @@
-# ML_customer_purchasing_activity_for_an_online_store
+# ML_customers_purchasing_activity_for_an_online_store
 
 ## Описание проекта:
 
@@ -21,10 +21,10 @@
 
 ## Как запустить проект
 
-- Открыть файл `ML_customer-s_purchasing_activity_for_-an_online_store` в GitHub
+- Открыть файл `ML_customers_purchasing_activity_for_an_online_store` в GitHub
   
 или
-- Скачайте и запустите файл `ML_customer-s_purchasing_activity_for_-an_online_store` или ноутбук с аналогичным кодом в Jupyter. Данные находятся в в папке `data_files`. При чтении файлов укажите свой путь к файлам в коде. 
+- Скачайте и запустите файл `ML_customers_purchasing_activity_for_an_online_store` или ноутбук с аналогичным кодом в Jupyter. Данные находятся в в папке `data_files`. При чтении файлов укажите свой путь к файлам в коде. 
 
 
 ## Краткие результаты

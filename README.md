@@ -24,7 +24,7 @@
 - Открыть файл `ML_customers_purchasing_activity_for_an_online_store` в GitHub
   
 или
-- Скачайте и запустите файл `ML_customers_purchasing_activity_for_an_online_store` или ноутбук с аналогичным кодом в Jupyter. Данные находятся в в папке `data_files`. При чтении файлов укажите свой путь к файлам в коде. 
+- Скачайте и запустите файл `ML_customers_purchasing_activity_for_an_online_store` или ноутбук с аналогичным кодом в Jupyter. Данные находятся в папке `data_files`. При чтении файлов укажите свой путь к файлам в коде. 
 
 
 ## Краткие результаты
